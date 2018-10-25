@@ -1,0 +1,6 @@
+Hi This is the content in my file.
+Adding some more things in file 
+I am trying to use append mode for my file
+Hi This is the content in my file.
+Adding some more things in file 
+I am trying to use append mode for my file
